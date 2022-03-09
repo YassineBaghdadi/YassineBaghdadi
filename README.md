@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="#">
-         <img src="https://github-readme-stats.vercel.app/api?username=YassineBaghdadi&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" height="300" >
+         <img src="https://github-readme-stats.vercel.app/api?username=YassineBaghdadi&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" height="300" >
     </a>
     
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="#">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBaghdadi&layout=compact&theme=dark" height="300" >
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBaghdadi&layout=compact" height="300" >
     </a>
     
 </p>
@@ -25,6 +25,12 @@
     <a href="#"><img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
 </p>
 
+<p align="center">
+    <a href="#">
+         <img src="https://github-readme-stats.vercel.app/api?username=YassineBaghdadi&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" height="300" >
+    </a>
+    
+</p>
 -->
 
 
