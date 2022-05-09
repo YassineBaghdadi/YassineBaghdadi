@@ -54,7 +54,7 @@ I am a specialized technician in IT development from Morocco. Everything to do w
 src="https://img.shields.io/twitter/follow/Y_acineBaghdadi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/YassineBaghdadi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/YassineBaghdadi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=YassineBaghaddi&color=0891b2&labelColor=1c1917&style=for-the-badge">  
 ### Skills
 
 <p align="left">
