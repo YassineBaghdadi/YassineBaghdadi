@@ -1,4 +1,3 @@
-![gitartwork](gitartwork.svg)
 
 <!--
 
@@ -41,6 +40,10 @@ _private=true&include_all_commits=true" height="300" >
 
 -->
 
+<p align="center">
+<img src="gitartwork.svg">  
+</p>
+
 Hi 👋 My name is Yassine Baghdadi
 =================================
 
@@ -53,11 +56,18 @@ I am a specialized technician in IT development from Morocco. Everything to do w
 * 🖥️  See my portfolio at [yassinebaghdadi.com](http://yassinebaghdadi.com/)
 * ✉️  You can contact me at [hello@yassinebaghdadi.com](mailto:hello@yassinebaghdadi.com)
 
+
+
+<p align="center"> 
+#### Thanks for visiting :heart: <br><br>
+<img src="https://profile-counter.glitch.me/YassineBaghdadi/count.svg">  
+
+<!-- 
 <a href="https://www.twitter.com/Y_acineBaghdadi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Y_acineBaghdadi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/YassineBaghdadi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/YassineBaghdadi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=YassineBaghaddi&color=0891b2&labelColor=1c1917&style=for-the-badge">  
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=YassineBaghaddi&color=0891b2&labelColor=1c1917&style=for-the-badge">   -->
 ### Skills
 
 <p align="left">
