@@ -1,5 +1,8 @@
+![gitartwork](gitartwork.svg)
+
 <!--
 
+<br>
 ### Hi there 👋
 
 
