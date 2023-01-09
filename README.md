@@ -91,7 +91,7 @@ src="https://img.shields.io/github/followers/YassineBaghdadi?logo=github&style=f
 -->
 <a href="https://github.com/YassineBaghdadi?tab=repositories" style="text-align:center">
 <!-- <img src="https://github.com/YassineBaghdadi/YassineBaghdadi/blob/output/github-contribution-grid-snake.gif"/> -->
-<img src="https://raw.githubusercontent.com/YassineBaghdadi/YassineBaghdadi/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/YassineBaghdadi/YassineBaghdadi/output/github-contribution-grid-snake.svg"/>
 </a>
 <a href="https://github.com/YassineBaghdadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBaghdadi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
