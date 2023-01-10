@@ -50,13 +50,19 @@ Hi 👋 My name is Yassine Baghdadi
 IT Developer
 ------------
 
+
+
 I am a specialized technician in IT development from Morocco. Everything to do with programming and problem solving appeals to me. I have freelance experience on Fiverr and Upwork. I would like to advance in my professional career and explore new opportunities.
 
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [yassinebaghdadi.com](http://yassinebaghdadi.com/)
 * ✉️  You can contact me at [hello@yassinebaghdadi.com](mailto:hello@yassinebaghdadi.com)
 
-
+&nbsp;<div align="center">
+    listening now to :
+    <br><br>
+  [![Spotify](https://sptify-yassinebaghdadi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31tcj567g56oa2t7i63je3ama6qm)
+</div>
 
 <p align="center"> 
 #### Thanks for visiting :heart: <br><br>
