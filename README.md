@@ -104,7 +104,7 @@ src="https://img.shields.io/github/followers/YassineBaghdadi?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/YassineBaghdadi"><img src="https://github-readme-stats.vercel.app/api?username=YassineBaghdadi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=true" alt="YassineBaghdadi's GitHub stats" /></a>       <a href="http://www.github.com/YassineBaghdadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineBaghdadi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/YassineBaghdadi"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YassineBaghdadi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=true" alt="YassineBaghdadi's GitHub stats" /></a>       <a href="http://www.github.com/YassineBaghdadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineBaghdadi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <!--
 <a href="http://www.github.com/YassineBaghdadi"><img src="https://activity-graph.herokuapp.com/graph?username=YassineBaghdadi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
@@ -112,15 +112,15 @@ src="https://img.shields.io/github/followers/YassineBaghdadi?logo=github&style=f
 <!-- <img src="https://github.com/YassineBaghdadi/YassineBaghdadi/blob/output/github-contribution-grid-snake.gif"/> -->
 <img src="https://raw.githubusercontent.com/YassineBaghdadi/YassineBaghdadi/output/github-contribution-grid-snake.svg"/>
 </a>
-<a href="https://github.com/YassineBaghdadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBaghdadi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/YassineBaghdadi" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YassineBaghdadi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/YassineBaghdadi/TransportingPlanning" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YassineBaghdadi&repo=TransportingPlanning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/YassineBaghdadi/TypingTest" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YassineBaghdadi&repo=TypingTest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/YassineBaghdadi/TransportingPlanning" align="left"><img align="left" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YassineBaghdadi&repo=TransportingPlanning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/YassineBaghdadi/TypingTest" align="right"><img align="right" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YassineBaghdadi&repo=TypingTest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/YassineBaghdadi/Alex-1.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YassineBaghdadi&repo=Alex-1.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/YassineBaghdadi/PARA-ELECTRO" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YassineBaghdadi&repo=PARA-ELECTRO&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/YassineBaghdadi/Alex-1.0" align="left"><img align="left" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YassineBaghdadi&repo=Alex-1.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/YassineBaghdadi/PARA-ELECTRO" align="right"><img align="right" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YassineBaghdadi&repo=PARA-ELECTRO&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
 
